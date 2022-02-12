@@ -5,7 +5,11 @@ Talvez possa ser útil para roubar a senha do WI-FI da sua escola (brincadeiras 
 
 - Como usálo
  Primeiramente ative a permissão de apps de terceiros na sua conta GMAIl 
+ 
  Abra o arquivo e coloque seu gmail, senha e o email recebedor nas variáveis;
+ 
  Execute o código em um computador que tenha acesso a rede desejada;
+ 
  Ele irá mostrar os perfis de rede, você deve escolher entre um deles;
+ 
  Apenas isto, agora cheque seu gmail!
