@@ -6,7 +6,7 @@ Talvez possa ser útil para roubar a senha do WI-FI da sua escola (brincadeiras 
 
 - Como usálo
  
- Primeiramente ative a permissão de apps de terceiros na sua conta GMAIl 
+ Primeiramente ative a permissão de apps de terceiros na sua conta G-MAIL
  
  Abra o arquivo e coloque seu gmail, senha e o email recebedor nas variáveis;
  
